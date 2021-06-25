@@ -1,0 +1,1 @@
+Message [receiver=User [firstName=Judy, lastName=Foster, address=Address [streetAddress=Main Street, buildingNumber=1]] EmailUser [emailAddress=ab@g.com], sender=User [firstName=Betty, lastName=Beans, address=Address [streetAddress=second street, buildingNumber=2]] EmailUser [emailAddress=vr@g.com], body=This is one email]

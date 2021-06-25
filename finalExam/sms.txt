@@ -1,0 +1,1 @@
+Message [receiver=tel: 122123, User [firstName=Judy, lastName=Foster, address=Address [streetAddress=Main Street, buildingNumber=1]], sender=tel: 1232313, User [firstName=Betty, lastName=Beans, address=Address [streetAddress=second street, buildingNumber=2]], body=This is one sms]

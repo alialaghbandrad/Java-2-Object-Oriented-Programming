@@ -1,0 +1,1 @@
+Message [receiver=EmailUser [emailAddress=a.b@g.com], sender=EmailUser [emailAddress=v.r@g.com], body=This is one email]
