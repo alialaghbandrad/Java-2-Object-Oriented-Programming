@@ -1,0 +1,11 @@
+1 => B.    Constructor is being called in the object instantiation
+2 => C.    Abstraction is to avoid duplication and is for code reuse.
+3 => C, F. Calling an overloaded constructor with this() may be used only as the first line of
+           a constructor, making options A and B incorrect. Accessing this.variableName can be
+           performed from any instance method, constructor, or instance initializer, but not from a
+           static method or static initializer. For this reason, option C is correct, and option D is
+           incorrect. Option E is tricky. The default constructor is written by the compiler only if no
+           user-defined constructors were provided. And this() can only be called from a constructor
+           in the same class. Since there can be no user-defined constructors in the class if a default
+           constructor was created, it is impossible for option E to be true. Since the main() method is
+           in the same class, it can call private methods in the class, making option F correct.
