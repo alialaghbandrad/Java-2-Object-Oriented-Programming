@@ -1,0 +1,48 @@
+Functionalities
+
+In a library management system, a library member and a librarian can access the system. 
+The following functionalities are defined for the system:
+
+(1) Register/update/delete account:
+
+A user can directly register/update/delete an account or a librarian can do it on behalf of the user.
+The required information for an account are: account status (active, closed, blocked), ID number, member card, 
+contact information, and password.
+The member card is issued for every account holder and includes information about issue date, card number, and activation status.
+
+(2) Log in/Log out:
+
+A member or a librarian can log in and log out of an account. Id and password should be entered and the system verifies.
+If it is incorrect, the systems displays an error.
+
+(3) Reserve book:
+
+A member or librarian can reserve a book. For finding a book, the member should search for books. 
+If no book is found, the system shows an error. After reservation a book can be borrowed.
+
+(4) Search book:
+
+The library members and librarian can search books by title, author, and subject.
+
+(5) Borrow book:
+
+A book can be borrowed with or without prior reservation. If it is not reserved, the book should be searched and then borrowed.
+After borrowing, it should be noted on the library system.
+
+(6) Return book:
+
+A book should be returned to the library by the member or librarian on behalf of the member. The return deadline should be checked.
+If any fees is required, a bill should be issued by the system.
+After returning, it should be noted on the library system.
+
+(7) Make a contribution:
+
+A member can contribute books to the library.
+
+(8) Add library information:
+
+A librarian should add the contact information and address of the library to the system.
+Also for all the books, the location, author, title, subject, publisher, and ISBN should be entered to the system.
+
+
+
